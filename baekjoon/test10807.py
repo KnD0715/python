@@ -6,4 +6,4 @@ my_list = list(map(int, sys.stdin.readline().split()))
 
 V = int(sys.stdin.readline())
 
-print(my_list.count(V))
+print (my_list.count(V))
